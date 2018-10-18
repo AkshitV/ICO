@@ -11,7 +11,7 @@ Mongodb
 Steps to run :
 	
 1) clone the existing repository.
-2) cd Vega_ICO
+2) cd ICO
 3) cd modules/constants.js and change all the empty constants	
 4) npm install
 5) npm start
